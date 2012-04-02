@@ -34,5 +34,5 @@ module.exports.mappings = {
   4: 'android'
 };
 
-module.exports.port = 3100;
-module.exports.host = 'node.soped.lan:3100';
+module.exports.port = 8001;
+module.exports.host = null;// localhost
